@@ -12,3 +12,4 @@ task written
 diectory created
 thsi changes the group owner  for the file hello to school
 owner and group changed
+owner and group owner changed form hello to vincent and to staff
