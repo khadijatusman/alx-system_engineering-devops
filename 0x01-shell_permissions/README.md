@@ -10,3 +10,4 @@ script thta sets the mode of the file hello written
 script that sets the mode of fiele hello the same as olleh wriititten
 task written
 diectory created
+thsi changes the group owner  for the file hello to school
