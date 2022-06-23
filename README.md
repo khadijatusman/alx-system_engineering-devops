@@ -11,3 +11,4 @@ file type
 we are symbols and inhabit symbols
 copy html files
 lets move task
+emacs cleaned
