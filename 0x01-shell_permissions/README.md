@@ -8,3 +8,4 @@ script that add execute permission to owner and group owner, and read permission
 execute permission to theowner, group and user to the file hello printed
 script thta sets the mode of the file hello written
 script that sets the mode of fiele hello the same as olleh wriititten
+task written
