@@ -13,3 +13,4 @@ copy html files
 lets move task
 emacs cleaned
 tree task
+life is a series of commas not period
