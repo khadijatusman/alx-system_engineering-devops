@@ -8,3 +8,5 @@ Bye bye my first directory
 Back to the future task
 lists
 file type
+we are symbols and inhabit symbols
+copy html files

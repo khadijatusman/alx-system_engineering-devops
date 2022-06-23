@@ -1,8 +1,1 @@
-script displays current directory contents
-creates directory my first directory
-delete the file betty
-my first directory in tmp deleted
-change working directory to previous one
-script that list all files
-prints i am a file in tmp
-symbolic link
+copy hml files from current working directory to parent directory
