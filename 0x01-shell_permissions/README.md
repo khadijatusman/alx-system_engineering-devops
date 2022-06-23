@@ -7,3 +7,4 @@ execute permission to the owner of the file hello printed
 script that add execute permission to owner and group owner, and read permission to other users ,to the file hello
 execute permission to theowner, group and user to the file hello printed
 script thta sets the mode of the file hello written
+script that sets the mode of fiele hello the same as olleh wriititten
