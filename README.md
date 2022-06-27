@@ -9,3 +9,9 @@ everybody
 James Bond
 John Doe
 mirror permissions
+more directories
+changfe group
+owner and group
+symbolic link
+if only
+star wars
