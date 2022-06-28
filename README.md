@@ -18,3 +18,4 @@ star wars
 confused smiley
 smiley confused
 content etc content display
+content of etpasswd and etchosts
