@@ -17,3 +17,4 @@ task 16
 lines in etcpasswd thatdon not contain bin
 lines containing letters displayed
 letters replaced
+All letters c and C removed
