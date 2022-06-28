@@ -15,3 +15,4 @@ prints a number with two decimal places followed by  new line
 converts a number from base 10 to base 16
 encodes and decodes text using rot13 encryption
 prints every other line from the input, starting with the first line
+adds the two numbers stored in the environment variable water and stir and prints the result
