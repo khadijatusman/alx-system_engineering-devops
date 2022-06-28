@@ -35,3 +35,4 @@ task 20
 creating hello user script
 path to success
 task 2 path to success
+ If the path be beautiful, let us not ask where it leads
