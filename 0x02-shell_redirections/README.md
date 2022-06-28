@@ -5,3 +5,4 @@ content printed
 contents display
 first 10 lines 
 script displays third line of iacta
+file created
