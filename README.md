@@ -38,3 +38,4 @@ task 2 path to success
  If the path be beautiful, let us not ask where it leads
 task 4
 local variables and environment and functions listed
+local variable task 6

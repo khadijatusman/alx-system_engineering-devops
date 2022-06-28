@@ -4,3 +4,4 @@ path to success
 task 3
 environment variable lists
 local variables
+script creates a new local variable
