@@ -7,3 +7,4 @@ first 10 lines
 script displays third line of iacta
 file created
 task 8
+file deleted
