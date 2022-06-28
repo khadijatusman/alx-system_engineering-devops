@@ -46,3 +46,4 @@ conversion of binary bas e2 to base 10
 combination
 floats task
 decimal to hexadecimal
+task 15 assume ASCII
