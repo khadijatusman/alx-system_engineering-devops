@@ -7,3 +7,4 @@ local variables
 script creates a new local variable
 creates new global variable
 addition to true knowledge
+divided by divide
