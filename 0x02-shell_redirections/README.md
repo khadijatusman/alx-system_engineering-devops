@@ -15,3 +15,4 @@ lines display containing root
 lines that contain bin
 task 16
 lines in etcpasswd thatdon not contain bin
+lines containing letters displayed
