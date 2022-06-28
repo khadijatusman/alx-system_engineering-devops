@@ -45,3 +45,4 @@ task 10
 conversion of binary bas e2 to base 10
 combination
 floats task
+decimal to hexadecimal
