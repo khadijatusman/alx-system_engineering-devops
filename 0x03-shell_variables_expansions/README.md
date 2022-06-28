@@ -10,3 +10,4 @@ addition to true knowledge
 divided by divide
 result to breath to power of love
 converts a number from base 2 to bas e 10
+script prints all combination of two letters except oo
