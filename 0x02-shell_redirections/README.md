@@ -12,3 +12,4 @@ count directories
 10 newest files
 word print
 lines display containing root
+lines that contain bin
