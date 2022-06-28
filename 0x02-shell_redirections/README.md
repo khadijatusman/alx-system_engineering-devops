@@ -3,3 +3,4 @@ confused smiley printed
 confused smiley printed
 content printed
 contents display
+first 10 lines 

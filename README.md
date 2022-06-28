@@ -19,3 +19,4 @@ confused smiley
 smiley confused
 content etc content display
 content of etpasswd and etchosts
+display of first 10 lines
