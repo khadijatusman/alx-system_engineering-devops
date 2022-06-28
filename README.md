@@ -20,3 +20,4 @@ smiley confused
 content etc content display
 content of etpasswd and etchosts
 display of first 10 lines
+writing a script that displays the third line of iacta
