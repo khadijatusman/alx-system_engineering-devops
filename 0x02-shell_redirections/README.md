@@ -13,3 +13,4 @@ count directories
 word print
 lines display containing root
 lines that contain bin
+task 16
