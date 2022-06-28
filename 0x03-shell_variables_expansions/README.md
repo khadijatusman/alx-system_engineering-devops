@@ -8,3 +8,4 @@ script creates a new local variable
 creates new global variable
 addition to true knowledge
 divided by divide
+result to breath to power of love
