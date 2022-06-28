@@ -10,3 +10,4 @@ task 8
 file deleted
 count directories
 10 newest files
+word print
