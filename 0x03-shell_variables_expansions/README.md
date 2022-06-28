@@ -9,3 +9,4 @@ creates new global variable
 addition to true knowledge
 divided by divide
 result to breath to power of love
+converts a number from base 2 to bas e 10
