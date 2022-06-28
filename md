@@ -1,1 +1,1 @@
-display last 10 lines of etc/passwd
+creating hello user script
