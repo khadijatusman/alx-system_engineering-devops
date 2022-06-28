@@ -39,3 +39,4 @@ task 2 path to success
 task 4
 local variables and environment and functions listed
 local variable task 6
+global variable
