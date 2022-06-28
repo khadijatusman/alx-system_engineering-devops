@@ -20,3 +20,4 @@ letters replaced
 All letters c and C removed
 reversed
 task 22
+100 task
